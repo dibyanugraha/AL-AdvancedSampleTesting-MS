@@ -9,8 +9,14 @@
   "EULA": "",
   "help": "",
   "url": "",
-  "logo": "",
-  "dependencies": [],
+  "logo": "","dependencies": [ 
+    { 
+      "appId": "4cdf319d-ecc6-4631-bcc4-ac69dbb78160", 
+      "name": "CustomerRewardsAdvanced", 
+      "publisher": "Default publisher", 
+      "version": "1.0.0.0" 
+    } 
+  ], 
   "screenshots": [],
   "platform": "14.0.0.0",
   "application": "14.0.0.0",
