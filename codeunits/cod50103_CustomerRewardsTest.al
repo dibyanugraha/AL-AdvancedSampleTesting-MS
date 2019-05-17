@@ -39,7 +39,7 @@ codeunit 50103 "Customer Rewards Test"
 
         CustomerRewardsExtMgtSetup.Get;
 
-        Assert.AreEqual(Codeunit::"Customer Rewards Ext. Mgt.", CustomerRewardsExtMgtSetup."Customer Rewards Ext. Mgt. Codeunit ID", 'Codeunit does not match default');
+        Assert.AreEqual(Codeunit::"Customer Rewards Ext. Mgt.", CustomerRewardsExtMgtSetup."Cust. Rewards Mgt. ID", 'Codeunit does not match default');
 
     end;
 
